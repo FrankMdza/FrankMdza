@@ -21,7 +21,7 @@ jobs:
       - name: Draw skyline
         env:
           GITHUB_TOKEN: ${{ secrets.SKYLINE_TOKEN || secrets.GITHUB_TOKEN }}
-        run: go run github.com/pinkpixel-dev/skyline@v1.0.0 -theme sunset -svg skyline.svg "${{ github.repository_owner }}"
+        run: go run github.com/pinkpixel-dev/skyline@v1.0.0 -theme matrix -svg skyline.svg "${{ github.repository_owner }}"
 
       - name: Publish to output branch
         env:
