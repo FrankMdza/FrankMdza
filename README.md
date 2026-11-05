@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FrankMdza/hydra-harness/blob/master/docs/demo/hydra.gif?raw=true" width="600" alt="Hydra: the vendor reports SUCCESS, the record says gated">
+  <img src="banner.gif" width="100%" alt="Green code rain">
 </p>
 
 ---
@@ -11,6 +11,10 @@
 - 💻 Software engineer at Third Way Health
 - 🐉 Building [Hydra](https://github.com/FrankMdza/hydra-harness), a Rust harness that runs Claude Code, Codex, Gemini and Cursor behind a policy gate and records every run
 - 🧩 Problem solver from Colombia 🇨🇴
+
+<p align="center">
+  <img src="https://github.com/FrankMdza/hydra-harness/blob/master/docs/demo/hydra.gif?raw=true" width="600" alt="Hydra: the vendor reports SUCCESS, the record says gated">
+</p>
 
 ---
 
