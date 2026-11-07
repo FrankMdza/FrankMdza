@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About+Me&color=00FF41)](https://git.io/typing-svg)
+<picture><img src="https://readme-typing-svg.demolab.com/?lines=About+Me&color=00FF41" alt="About Me"></picture>
 
 - 🔥 Frank, AKA Fr4nk
 - 🏛️ Founder of HephaestusLab: harnesses and skills for coding agents
@@ -22,19 +22,19 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Things+I+Like&color=00FF41)](https://git.io/typing-svg)
+<picture><img src="https://readme-typing-svg.demolab.com/?lines=Things+I+Like&color=00FF41" alt="Things I Like"></picture>
 
 - **Cybersecurity 🔐 • Music 🎧 • Art 🎨 • Breaking agents to see what they do 🧪**
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+I+Work+With&color=00FF41)](https://git.io/typing-svg)
+<picture><img src="https://readme-typing-svg.demolab.com/?lines=Tech+I+Work+With&color=00FF41" alt="Tech I Work With"></picture>
 
 - **Rust • Python • SQL • LLM agents • macOS seatbelt**
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Find+Me+Around&color=00FF41)](https://git.io/typing-svg)
+<picture><img src="https://readme-typing-svg.demolab.com/?lines=Find+Me+Around&color=00FF41" alt="Find Me Around"></picture>
 
 - 💼 LinkedIn: [franciscomdzah](https://www.linkedin.com/in/franciscomdzah/), for HephaestusLab work and hiring
 - 🐙 GitHub: [@FrankMdza](https://github.com/FrankMdza)
@@ -42,7 +42,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sponsor&color=00FF41)](https://git.io/typing-svg)
+<picture><img src="https://readme-typing-svg.demolab.com/?lines=Sponsor&color=00FF41" alt="Sponsor"></picture>
 
 Young, broke and fabulous. Fund the slop, keep me in the loop.
 
